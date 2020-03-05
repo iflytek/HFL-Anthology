@@ -51,6 +51,9 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 | Paper | Authors | Venue | Note |
 | :------ | :------ | :------: | :------: | 
 | [Discriminative Sentence Modeling for Story Ending Prediction](https://arxiv.org/abs/1912.09008) | Yiming Cui, Wanxiang Che, Wei-Nan Zhang, Ting Liu, Shijin Wang, Guoping Hu | AAAI 2020 | | 
+| [Cross-Lingual Machine Reading Comprehension](https://www.aclweb.org/anthology/D19-1169/) | Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu | EMNLP 2019 | [GitHub](https://github.com/ymcui/Cross-Lingual-MRC) |
+| [A Span-Extraction Dataset for Chinese Machine Reading Comprehension](https://www.aclweb.org/anthology/D19-1600/) | Yiming Cui, Ting Liu, Wanxiang Che, Li Xiao, Zhipeng Chen, Wentao Ma, Shijin Wang, Guoping Hu | EMNLP 2019 | [GitHub](https://github.com/ymcui/cmrc2018) |
+| [TripleNet: Triple Attention Network for Multi-Turn Response Selection in Retrieval-based Chatbots](https://www.aclweb.org/anthology/K19-1069/) | Wentao Ma, Yiming Cui, Nan Shao, Su He, Wei-Nan Zhang, Ting Liu, Shijin Wang, Guoping Hu | CoNLL 2019 | [GitHub](https://github.com/wtma/TripleNet) |
 
 
 
