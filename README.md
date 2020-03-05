@@ -50,10 +50,20 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Paper | Authors | Venue | Note |
 | :------ | :------ | :------: | :------: | 
-| [Discriminative Sentence Modeling for Story Ending Prediction](https://arxiv.org/abs/1912.09008) | Yiming Cui, Wanxiang Che, Wei-Nan Zhang, Ting Liu, Shijin Wang, Guoping Hu | AAAI 2020 | | 
+| [Discriminative Sentence Modeling for Story Ending Prediction](https://arxiv.org/abs/1912.09008) | Yiming Cui, Wanxiang Che, Wei-Nan Zhang, Ting Liu, Shijin Wang, Guoping Hu | AAAI 2020 | - | 
 | [Cross-Lingual Machine Reading Comprehension](https://www.aclweb.org/anthology/D19-1169/) | Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu | EMNLP 2019 | [GitHub](https://github.com/ymcui/Cross-Lingual-MRC) |
 | [A Span-Extraction Dataset for Chinese Machine Reading Comprehension](https://www.aclweb.org/anthology/D19-1600/) | Yiming Cui, Ting Liu, Wanxiang Che, Li Xiao, Zhipeng Chen, Wentao Ma, Shijin Wang, Guoping Hu | EMNLP 2019 | [GitHub](https://github.com/ymcui/cmrc2018) |
 | [TripleNet: Triple Attention Network for Multi-Turn Response Selection in Retrieval-based Chatbots](https://www.aclweb.org/anthology/K19-1069/) | Wentao Ma, Yiming Cui, Nan Shao, Su He, Wei-Nan Zhang, Ting Liu, Shijin Wang, Guoping Hu | CoNLL 2019 | [GitHub](https://github.com/wtma/TripleNet) |
+| [Pre-Training with Whole Word Masking for Chinese BERT](https://arxiv.org/abs/1906.08101) | Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Ziqing Yang, Shijin Wang, Guoping Hu | - | [GitHub-1](https://github.com/ymcui/Chinese-BERT-wwm/), [GitHub-2](https://github.com/ymcui/Chinese-PreTrained-XLNet) |
+| [Improving Machine Reading Comprehension via Adversarial Training](https://arxiv.org/abs/1911.03614) | Ziqing Yang, Yiming Cui, Wanxiang Che, Ting Liu, Shijin Wang, Guoping Hu | - | - |
+| [Contextual Recurrent Units for Cloze-style Reading Comprehension](https://arxiv.org/abs/1911.05960) | Yiming Cui, Wei-Nan Zhang, Wanxiang Che, Ting Liu, Zhipeng Chen, Shijin Wang, Guoping Hu | - | - |
+| [CJRC: A Reliable Human-Annotated Benchmark DataSet for Chinese Judicial Reading Comprehension](https://arxiv.org/abs/1912.09156) | Xingyi Duan, Baoxin Wang, Ziyue Wang, Wentao Ma, Yiming Cui, Dayong Wu, Shijin Wang, Ting Liu, Tianxiang Huo, Zhen Hu, Heng Wang, Zhiyuan Liu | CCL 2019 | [GitHub](https://github.com/china-ai-law-challenge/CAIL2019) | 
+| [Exploiting Persona Information for Diverse Generation of Conversational Responses](https://arxiv.org/abs/1905.12188) | Haoyu Song, Wei-Nan Zhang, Yiming Cui, Dong Wang, Ting Liu | IJCAI 2019 | - |
+| [Convolutional Spatial Attention Model for Reading Comprehension with Multiple-Choice Questions](https://arxiv.org/abs/1811.08610) | Zhipeng Chen, Yiming Cui*, Wentao Ma, Shijin Wang, Guoping Hu | AAAI 2019 | - |
+
+
+
+
 
 
 
