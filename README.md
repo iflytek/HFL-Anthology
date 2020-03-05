@@ -60,7 +60,13 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 | [CJRC: A Reliable Human-Annotated Benchmark DataSet for Chinese Judicial Reading Comprehension](https://arxiv.org/abs/1912.09156) | Xingyi Duan, Baoxin Wang, Ziyue Wang, Wentao Ma, Yiming Cui, Dayong Wu, Shijin Wang, Ting Liu, Tianxiang Huo, Zhen Hu, Heng Wang, Zhiyuan Liu | CCL 2019 | [GitHub](https://github.com/china-ai-law-challenge/CAIL2019) | 
 | [Exploiting Persona Information for Diverse Generation of Conversational Responses](https://arxiv.org/abs/1905.12188) | Haoyu Song, Wei-Nan Zhang, Yiming Cui, Dong Wang, Ting Liu | IJCAI 2019 | - |
 | [Convolutional Spatial Attention Model for Reading Comprehension with Multiple-Choice Questions](https://arxiv.org/abs/1811.08610) | Zhipeng Chen, Yiming Cui*, Wentao Ma, Shijin Wang, Guoping Hu | AAAI 2019 | - |
-
+| [Context-Sensitive Generation of Open-Domain Conversational Responses](https://www.aclweb.org/anthology/C18-1206/) | Wei-Nan Zhang, Yiming Cui, Yifa Wang, Qingfu Zhu, Lingzhi Li, Lianqiang Zhou, Ting Liu | COLING 2018 | - |
+| [HFL-RC System at SemEval-2018 Task 11: Hybrid Multi-Aspects Model for Commonsense Reading Comprehension](https://arxiv.org/abs/1803.05655) | Zhipeng Chen, Yiming Cui*, Wentao Ma, Shijin Wang, Ting Liu, Guoping Hu | - | - |
+| [Dataset for the First Evaluation on Chinese Machine Reading Comprehension](https://www.aclweb.org/anthology/L18-1431/) | Yiming Cui, Ting Liu, Zhipeng Chen, Wentao Ma, Shijin Wang, Guoping Hu | LREC 2018 | [GitHub](https://github.com/ymcui/cmrc2017) |
+| [Attention-over-Attention Neural Networks for Reading Comprehension](https://www.aclweb.org/anthology/P17-1055/) | Yiming Cui, Zhipeng Chen, Si Wei, Shijin Wang, Ting Liu, Guoping Hu | ACL 2017 | - |
+| [Generating and Exploiting Large-scale Pseudo Training Data for Zero Pronoun Resolution](https://www.aclweb.org/anthology/P17-1010/) | Ting Liu, Yiming Cui, Qingyu Yin, Wei-Nan Zhang, Shijin Wang, Guoping Hu | ACL 2017 | - |
+| [Consensus Attention-based Neural Networks for Chinese Reading Comprehension](https://www.aclweb.org/anthology/C16-1167/) | Yiming Cui, Ting Liu, Zhipeng Chen, Shijin Wang, Guoping Hu | COLING 2016 | [GitHub](https://github.com/ymcui/Chinese-Cloze-RC) |
+| [LSTM Neural Reordering Feature for Statistical Machine Translation](https://www.aclweb.org/anthology/N16-1112/) | Yiming Cui, Shijin Wang, Jianfeng Li | NAACL 2016 | - |
 
 
 
