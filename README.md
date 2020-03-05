@@ -43,8 +43,8 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 | :------ | :------: | :------: | 
 | CMRC 2019 | Sentence Cloze Reading Comprehension | [link](http://hfl-rc.github.io/cmrc2019/) |
 | CJRC | Judiciary Reading Comprehension | [link](http://cail.cipsc.org.cn)
-| CMRC 2018 | Reading Comprehension | [link](http://hfl-rc.github.io/cmrc2018/) |
-| CMRC 2017 | Reading Comprehension | [link](http://hfl-rc.github.io/cmrc2017/) |
+| CMRC 2018 | Span-Extraction Reading Comprehension | [link](http://hfl-rc.github.io/cmrc2018/) |
+| CMRC 2017 | Cloze-style Reading Comprehension | [link](http://hfl-rc.github.io/cmrc2017/) |
 
 ## Paper
 
