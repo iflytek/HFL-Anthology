@@ -32,7 +32,10 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 ## Demo
 
-
+| Name | Description | Link | Paper |
+| :------ | :------: | :------: | :------: | 
+| iFLYChecker | A Chinese Grammar Checking System | [link](http://check.hfl-rc.com) | - |
+| IFlyLegal | A Chinese Legal System for Consultation, Law Searching, and Document Analysis | [link](https://github.com/china-ai-law-challenge/CAIL2019/tree/master/阅读理解#法小飞) | [Wang et al., 2019](https://www.aclweb.org/anthology/D19-3017/) | 
 
 
 ## Evaluation Campaign
