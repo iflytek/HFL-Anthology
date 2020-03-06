@@ -1,5 +1,5 @@
 # HFL Gallery
-Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
+Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL).
 
 
 <!-- TOC -->
@@ -74,5 +74,6 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 ## Follow Us
 Follow our official WeChat account to keep updated with our latest technologies!
+
 ![](./hfl_qrcode.jpg)
 
