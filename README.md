@@ -3,7 +3,7 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 
 <!-- TOC -->
-
+- [Pre-trained Models](#Pre-trained-Models)
 - [Dataset](#Dataset)
 - [Toolkit](#Toolkit)
 - [Demo](#Demo)
@@ -11,6 +11,14 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 - [Paper](#Paper)
 
 <!-- /TOC -->
+
+## Pre-trained Models
+
+| Name | Description | 
+| :------ | :------: | 
+| [Chinese-ELECTRA](https://github.com/ymcui/Chinese-ELECTRA) | Chinese Pre-trained ELECTRA models (ELECTRA-base, ELECTRA-small) with code supports for six tasks: CMRC 2018, DRCD, XNLI, ChnSentiCorp, LCQMC, BQCorpus | 
+| [Chinese-XLNet](https://github.com/ymcui/Chinese-XLNet) | Chinese Pre-trained XLNet models: XLNet-mid, XLNet-base |
+| [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) | Chinese BERT with Whole Word Masking, including: BERT-wwm, BERT-wwm-ext, RoBERTa-wwm-ext, RoBERTa-wwm-ext-large, RBT3, RBTL3 |
 
 
 ## Dataset
