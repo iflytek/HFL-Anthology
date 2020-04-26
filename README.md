@@ -25,7 +25,7 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Name | Type | Link | Paper |
 | :------ | :------: | :------: | :------: | 
-| CMRC 2019 | Reading Comprehension | [link](https://github.com/ymcui/cmrc2019) | [Cui et al., 2020] |
+| CMRC 2019 | Reading Comprehension | [link](https://github.com/ymcui/cmrc2019) | [Cui et al., 2020](https://arxiv.org/abs/2004.03116) |
 | CJRC | Judiciary Reading Comprehension | [link](https://github.com/china-ai-law-challenge/CAIL2019/tree/master/阅读理解) | [Duan et al., 2019](https://arxiv.org/abs/1912.09156)
 | CMRC 2018 | Reading Comprehension | [link](https://github.com/ymcui/cmrc2018) | [Cui et al., 2019](https://www.aclweb.org/anthology/D19-1600/) |
 | CMRC 2017 | Reading Comprehension | [link](https://github.com/ymcui/cmrc2017) | [Cui et al., 2018](https://www.aclweb.org/anthology/L18-1431/) |
@@ -58,6 +58,10 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Paper | Authors | Venue | Note |
 | :------ | :------ | :------: | :------: | 
+| [TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing](https://arxiv.org/abs/2002.12620) | Ziqing Yang, Yiming Cui, Zhipeng Chen, Wanxiang Che, Ting Liu, Shijin Wang, Guoping Hu | ACL 2020 Demo | [GitHub](https://github.com/airaria/TextBrewer) |
+| Conversational Word Embedding for Retrieval-based Dialog System | Wentao Ma, Yiming Cui, Ting Liu, Dong Wang, Shijin Wang, Guoping Hu | ACL 2020 | [GitHub](https://github.com/wtma/PR-Embedding) | 
+| [A Sentence Cloze Dataset for Chinese Machine Reading Comprehension](https://arxiv.org/abs/2004.03116) | Yiming Cui, Ting Liu, Ziqing Yang, Zhipeng Chen, Wentao Ma, Wanxiang Che, Shijin Wang, Guoping Hu | - | [GitHub](http://hfl-rc.github.io/cmrc2019/) |
+| [Is Graph Structure Necessary for Multi-hop Reasoning?](https://arxiv.org/abs/2004.03096) | Nan Shao, Yiming Cui, Ting Liu, Shijin Wang, Guoping Hu | - | - |
 | [Discriminative Sentence Modeling for Story Ending Prediction](https://arxiv.org/abs/1912.09008) | Yiming Cui, Wanxiang Che, Wei-Nan Zhang, Ting Liu, Shijin Wang, Guoping Hu | AAAI 2020 | - | 
 | [Cross-Lingual Machine Reading Comprehension](https://www.aclweb.org/anthology/D19-1169/) | Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu | EMNLP 2019 | [GitHub](https://github.com/ymcui/Cross-Lingual-MRC) |
 | [A Span-Extraction Dataset for Chinese Machine Reading Comprehension](https://www.aclweb.org/anthology/D19-1600/) | Yiming Cui, Ting Liu, Wanxiang Che, Li Xiao, Zhipeng Chen, Wentao Ma, Shijin Wang, Guoping Hu | EMNLP 2019 | [GitHub](https://github.com/ymcui/cmrc2018) |
