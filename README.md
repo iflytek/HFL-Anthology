@@ -3,7 +3,7 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 <!-- TOC -->
 
-- [Pre-trained Language Models](#Pre-trained--Language-Models)
+- [Pre-trained Language Models](#Pre-trained-Language-Models)
 - [Dataset](#Dataset)
 - [Toolkit](#Toolkit)
 - [Demo](#Demo)
