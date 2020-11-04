@@ -16,7 +16,8 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Name | Description |
 | :------ | :------ |
-| [MacBERT](https://github.com/ymcui/MacBERT) | Chinese pre-trained MacBERT models (MacBERT-base, MacBERT-small) |
+| [MacBERT](https://github.com/ymcui/MacBERT) | Chinese pre-trained MacBERT models (MacBERT-base, MacBERT-large) |
+| [CharBERT](https://github.com/wtma/CharBERT) | English pre-trained CharBERT models |
 | [Chinese-ELECTRA](https://github.com/ymcui/Chinese-ELECTRA) | Chinese pre-trained ELECTRA models (ELECTRA-base, ELECTRA-small) with code supports for six tasks: CMRC 2018, DRCD, XNLI, ChnSentiCorp, LCQMC, BQCorpus |
 | [Chinese-XLNet](https://github.com/ymcui/Chinese-XLNet) | Chinese pre-trained XLNet models: XLNet-mid, XLNet-base |
 | [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) | Chinese BERT with Whole Word Masking (wwm), including BERT-wwm, BERT-wwm-ext, RoBERTa-wwm-ext, RoBERTa-wwm-ext-large, RBT3, RBTL3 |
@@ -59,12 +60,13 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Paper | Authors | Venue | Note |
 | :------ | :------ | :------: | :------: |
+| [A Sentence Cloze Dataset for Chinese Machine Reading Comprehension](https://arxiv.org/abs/2004.03116) | Yiming Cui, Ting Liu, Ziqing Yang, Zhipeng Chen, Wentao Ma, Wanxiang Che, Shijin Wang, Guoping Hu | COLING 2020 | [GitHub](http://hfl-rc.github.io/cmrc2019/) |
+| [CharBERT: Character-aware Pre-trained Language Model](https://arxiv.org/abs/2011.01513) | Wentao Ma, Yiming Cui, Chenglei Si, Ting Liu, Shijin Wang, Guoping Hu | COLING 2020 | [GitHub](https://github.com/wtma/CharBERT) |
 | [Revisiting Pre-Trained Models for Chinese Natural Language Processing](https://arxiv.org/abs/2004.13922) | Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu | Findings of EMNLP | [GitHub](https://github.com/ymcui/MacBERT) |
 | [Is Graph Structure Necessary for Multi-hop Question Answering?](https://arxiv.org/abs/2004.03096) | Nan Shao, Yiming Cui, Ting Liu, Shijin Wang, Guoping Hu | EMNLP 2020 | - |
 | [Benchmarking Robustness of Machine Reading Comprehension Models](https://arxiv.org/abs/2004.14004) | Chenglei Si, Ziqing Yang, Yiming Cui, Wentao Ma, Ting Liu, Shijin Wang | - | - |
 | [TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing](https://www.aclweb.org/anthology/2020.acl-demos.2/) | Ziqing Yang, Yiming Cui, Zhipeng Chen, Wanxiang Che, Ting Liu, Shijin Wang, Guoping Hu | ACL 2020 Demo | [GitHub](https://github.com/airaria/TextBrewer) |
 | [Conversational Word Embedding for Retrieval-based Dialog System](https://www.aclweb.org/anthology/2020.acl-main.127/) | Wentao Ma, Yiming Cui, Ting Liu, Dong Wang, Shijin Wang, Guoping Hu | ACL 2020 | [GitHub](https://github.com/wtma/PR-Embedding) |
-| [A Sentence Cloze Dataset for Chinese Machine Reading Comprehension](https://arxiv.org/abs/2004.03116) | Yiming Cui, Ting Liu, Ziqing Yang, Zhipeng Chen, Wentao Ma, Wanxiang Che, Shijin Wang, Guoping Hu | - | [GitHub](http://hfl-rc.github.io/cmrc2019/) |
 | [Discriminative Sentence Modeling for Story Ending Prediction](https://aaai.org/ojs/index.php/AAAI/article/view/6260) | Yiming Cui, Wanxiang Che, Wei-Nan Zhang, Ting Liu, Shijin Wang, Guoping Hu | AAAI 2020 | - |
 | [Cross-Lingual Machine Reading Comprehension](https://www.aclweb.org/anthology/D19-1169/) | Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu | EMNLP 2019 | [GitHub](https://github.com/ymcui/Cross-Lingual-MRC) |
 | [A Span-Extraction Dataset for Chinese Machine Reading Comprehension](https://www.aclweb.org/anthology/D19-1600/) | Yiming Cui, Ting Liu, Wanxiang Che, Li Xiao, Zhipeng Chen, Wentao Ma, Shijin Wang, Guoping Hu | EMNLP 2019 | [GitHub](https://github.com/ymcui/cmrc2018) |
