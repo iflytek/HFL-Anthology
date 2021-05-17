@@ -27,11 +27,14 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Name | Type | Paper |
 | :------ | :------: | :------: |
+| [ExpMRC](https://github.com/ymcui/expmrc) | Reading Comprehension | [Cui et al., 2021](https://arxiv.org/abs/2105.04126) |
+| [AdvRACE](https://github.com/NoviScl/AdvRACE) | Reading Comprehension | [Si et al., 2020](https://arxiv.org/abs/2004.14004) |
 | [CMRC 2019](https://github.com/ymcui/cmrc2019) | Reading Comprehension | [Cui et al., 2020](https://arxiv.org/abs/2004.03116) |
-| [CJRC](https://github.com/china-ai-law-challenge/CAIL2019/tree/master/阅读理解) | Judiciary Reading Comprehension | [Duan et al., 2019](https://arxiv.org/abs/1912.09156) |
+| [CJRC](https://github.com/china-ai-law-challenge/CAIL2019/tree/master/阅读理解) | Reading Comprehension | [Duan et al., 2019](https://arxiv.org/abs/1912.09156) |
 | [CMRC 2018](https://github.com/ymcui/cmrc2018) | Reading Comprehension | [Cui et al., 2019](https://www.aclweb.org/anthology/D19-1600/) |
 | [CMRC 2017](https://github.com/ymcui/cmrc2017) | Reading Comprehension | [Cui et al., 2018](https://www.aclweb.org/anthology/L18-1431/) |
 | [PD&CFT](https://github.com/ymcui/Chinese-Cloze-RC) | Reading Comprehension | [Cui et al., 2016](https://www.aclweb.org/anthology/C16-1167/) |
+
 ## Toolkit
 
 | Name | Description | Paper |
@@ -60,11 +63,12 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Paper | Authors | Venue | Note |
 | :------ | :------ | :------: | :------: |
+| [ExpMRC: Explainability Evaluation for Machine Reading Comprehension](https://arxiv.org/abs/2105.04126) | Yiming Cui, Ting Liu, Wanxiang Che, Zhigang Chen, Shijin Wang |  | [GitHub](https://github.com/ymcui/expmrc) |
+| [Benchmarking Robustness of Machine Reading Comprehension Models](https://arxiv.org/abs/2004.14004) | Chenglei Si, Ziqing Yang, Yiming Cui, Wentao Ma, Ting Liu, Shijin Wang | Findings of ACL 2021 | [GitHub](https://github.com/NoviScl/AdvRACE) |
 | [A Sentence Cloze Dataset for Chinese Machine Reading Comprehension](https://arxiv.org/abs/2004.03116) | Yiming Cui, Ting Liu, Ziqing Yang, Zhipeng Chen, Wentao Ma, Wanxiang Che, Shijin Wang, Guoping Hu | COLING 2020 | [GitHub](http://hfl-rc.github.io/cmrc2019/) |
 | [CharBERT: Character-aware Pre-trained Language Model](https://arxiv.org/abs/2011.01513) | Wentao Ma, Yiming Cui, Chenglei Si, Ting Liu, Shijin Wang, Guoping Hu | COLING 2020 | [GitHub](https://github.com/wtma/CharBERT) |
-| [Revisiting Pre-Trained Models for Chinese Natural Language Processing](https://arxiv.org/abs/2004.13922) | Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu | Findings of EMNLP | [GitHub](https://github.com/ymcui/MacBERT) |
+| [Revisiting Pre-Trained Models for Chinese Natural Language Processing](https://arxiv.org/abs/2004.13922) | Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu | Findings of EMNLP 2020 | [GitHub](https://github.com/ymcui/MacBERT) |
 | [Is Graph Structure Necessary for Multi-hop Question Answering?](https://arxiv.org/abs/2004.03096) | Nan Shao, Yiming Cui, Ting Liu, Shijin Wang, Guoping Hu | EMNLP 2020 | - |
-| [Benchmarking Robustness of Machine Reading Comprehension Models](https://arxiv.org/abs/2004.14004) | Chenglei Si, Ziqing Yang, Yiming Cui, Wentao Ma, Ting Liu, Shijin Wang | - | - |
 | [TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing](https://www.aclweb.org/anthology/2020.acl-demos.2/) | Ziqing Yang, Yiming Cui, Zhipeng Chen, Wanxiang Che, Ting Liu, Shijin Wang, Guoping Hu | ACL 2020 Demo | [GitHub](https://github.com/airaria/TextBrewer) |
 | [Conversational Word Embedding for Retrieval-based Dialog System](https://www.aclweb.org/anthology/2020.acl-main.127/) | Wentao Ma, Yiming Cui, Ting Liu, Dong Wang, Shijin Wang, Guoping Hu | ACL 2020 | [GitHub](https://github.com/wtma/PR-Embedding) |
 | [Discriminative Sentence Modeling for Story Ending Prediction](https://aaai.org/ojs/index.php/AAAI/article/view/6260) | Yiming Cui, Wanxiang Che, Wei-Nan Zhang, Ting Liu, Shijin Wang, Guoping Hu | AAAI 2020 | - |
