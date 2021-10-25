@@ -16,6 +16,7 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Name | Description |
 | :------ | :------ |
+| [CINO](https://github.com/ymcui/Chinese-Minority-PLM) | Pre-trained Language Models for Chinese Minority Languages |
 | [MacBERT](https://github.com/ymcui/MacBERT) | Chinese pre-trained MacBERT models (MacBERT-base, MacBERT-large) |
 | [CharBERT](https://github.com/wtma/CharBERT) | English pre-trained CharBERT models |
 | [Chinese-ELECTRA](https://github.com/ymcui/Chinese-ELECTRA) | Chinese pre-trained ELECTRA models (ELECTRA-base, ELECTRA-small) with code supports for six tasks: CMRC 2018, DRCD, XNLI, ChnSentiCorp, LCQMC, BQCorpus |
