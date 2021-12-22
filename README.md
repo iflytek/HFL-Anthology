@@ -40,12 +40,14 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Name | Description | Paper |
 | :------ | :------: | :------: |
+| [TextPruner](https://github.com/airaria/TextPruner) | Model Pruning for NLP | - |
 | [TextBrewer](https://github.com/airaria/TextBrewer) | Knowledge Distillation for NLP | [Yang et al., 2020](https://arxiv.org/abs/2002.12620) |
 
 ## Demo
 
 | Name | Description | Paper |
 | :------ | :------: | :------: |
+| IFlyEA | A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation | [Gong et al., 2021](A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation) |
 | [iFLYChecker](http://check.hfl-rc.com) | A Chinese Grammar Checking System | - |
 | [IFlyLegal](https://github.com/china-ai-law-challenge/CAIL2019/tree/master/阅读理解#法小飞) | A Chinese Legal System for Consultation & Law Searching | [Wang et al., 2019](https://www.aclweb.org/anthology/D19-3017/) |
 
@@ -54,6 +56,7 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Name | Description |
 | :------ | :------: |
+| [CTC 2021](https://github.com/destwang/CTC2021) | Chinese Text Correction |
 | [CAIL 2020](http://cail.cipsc.org.cn) | Judiciary Reading Comprehension |
 | [CMRC 2019](http://hfl-rc.github.io/cmrc2019/) | Sentence Cloze Reading Comprehension |
 | [CAIL 2019](http://cail.cipsc.org.cn) | Judiciary Reading Comprehension |
@@ -64,6 +67,14 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Paper | Authors | Venue | Note |
 | :------ | :------ | :------: | :------: |
+| [IFlyEA: A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation]() | Jiefu Gong, Xiao Hu, Wei Song, Ruiji Fu, Zhichao Sheng, Bo Zhu, Shijin Wang, Ting Liu | ACL 2021 Demo |  |
+| [Dynamic Connected Networks for Chinese Spelling Check](https://aclanthology.org/2021.findings-acl.216/) | Baoxin Wang, Wanxiang Che, Dayong Wu, Shijin Wang, Guoping Hu, Ting Liu | Findings of ACL 2021 | |
+| [Various Legal Factors Extraction Based on Machine Reading Comprehension](https://link.springer.com/chapter/10.1007/978-3-030-88189-4_2) | Beichen Wang, Ziyue Wang, Baoxin Wang, Dayong Wu, Zhigang Chen, Shijin Wang, Guoping Hu | CCIR 2021 | |
+| 利用深层语言分析改进中文作文自动评分方法 | 魏思，巩捷甫，宋巍，宋子尧，王士进 | 中文信息学报 | |
+| [Bilingual Alignment Pre-training for Zero-shot Cross-lingual Transfer](https://aclanthology.org/2021.mrqa-1.10/) | Ziqing Yang, Yiming Cui, Chenglei Si, Wanxiang Che, Ting Liu, Shijin Wang, Guoping Hu |  |  |
+| [Adversarial Training for Machine Reading Comprehension with Virtual Embeddings](https://aclanthology.org/2021.starsem-1.30/) | Ziqing Yang, Yiming Cui, Chenglei Si, Wanxiang Che, Ting Liu, Shijin Wang, Guoping Hu | *SEM 2021 |  |
+| Interactive Gated Decoder for Machine Reading Comprehension | Yiming Cui, , Wanxiang Che, Ziqing Yang, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu | ACM TALLIP |  |
+| [Pre-Training with Whole Word Masking for Chinese BERT](http://ieeexplore.ieee.org/document/9599397) | Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Ziqing Yang | IEEE/ACM TASLP | [GitHub1](https://github.com/ymcui/Chinese-BERT-wwm/), [GitHub2](https://github.com/ymcui/Chinese-PreTrained-XLNet) |
 | [ExpMRC: Explainability Evaluation for Machine Reading Comprehension](https://arxiv.org/abs/2105.04126) | Yiming Cui, Ting Liu, Wanxiang Che, Zhigang Chen, Shijin Wang |  | [GitHub](https://github.com/ymcui/expmrc) |
 | [Benchmarking Robustness of Machine Reading Comprehension Models](https://arxiv.org/abs/2004.14004) | Chenglei Si, Ziqing Yang, Yiming Cui, Wentao Ma, Ting Liu, Shijin Wang | Findings of ACL 2021 | [GitHub](https://github.com/NoviScl/AdvRACE) |
 | [A Sentence Cloze Dataset for Chinese Machine Reading Comprehension](https://arxiv.org/abs/2004.03116) | Yiming Cui, Ting Liu, Ziqing Yang, Zhipeng Chen, Wentao Ma, Wanxiang Che, Shijin Wang, Guoping Hu | COLING 2020 | [GitHub](http://hfl-rc.github.io/cmrc2019/) |
@@ -77,7 +88,6 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 | [A Span-Extraction Dataset for Chinese Machine Reading Comprehension](https://www.aclweb.org/anthology/D19-1600/) | Yiming Cui, Ting Liu, Wanxiang Che, Li Xiao, Zhipeng Chen, Wentao Ma, Shijin Wang, Guoping Hu | EMNLP 2019 | [GitHub](https://github.com/ymcui/cmrc2018) |
 | [IFlyLegal: A Chinese Legal System for Consultation, Law Searching, and Document Analysis](https://www.aclweb.org/anthology/D19-3017/) | Ziyue Wang, Baoxin Wang, Xingyi Duan, Dayong Wu, Shijin Wang, Guoping Hu, Ting Liu | EMNLP 2019 Demo | - |
 | [TripleNet: Triple Attention Network for Multi-Turn Response Selection in Retrieval-based Chatbots](https://www.aclweb.org/anthology/K19-1069/) | Wentao Ma, Yiming Cui, Nan Shao, Su He, Wei-Nan Zhang, Ting Liu, Shijin Wang, Guoping Hu | CoNLL 2019 | [GitHub](https://github.com/wtma/TripleNet) |
-| [Pre-Training with Whole Word Masking for Chinese BERT](https://arxiv.org/abs/1906.08101) | Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Ziqing Yang, Shijin Wang, Guoping Hu | - | [GitHub1](https://github.com/ymcui/Chinese-BERT-wwm/), [GitHub2](https://github.com/ymcui/Chinese-PreTrained-XLNet) |
 | [Improving Machine Reading Comprehension via Adversarial Training](https://arxiv.org/abs/1911.03614) | Ziqing Yang, Yiming Cui, Wanxiang Che, Ting Liu, Shijin Wang, Guoping Hu | - | - |
 | [Contextual Recurrent Units for Cloze-style Reading Comprehension](https://arxiv.org/abs/1911.05960) | Yiming Cui, Wei-Nan Zhang, Wanxiang Che, Ting Liu, Zhipeng Chen, Shijin Wang, Guoping Hu | - | - |
 | [CJRC: A Reliable Human-Annotated Benchmark DataSet for Chinese Judicial Reading Comprehension](https://arxiv.org/abs/1912.09156) | Xingyi Duan, Baoxin Wang, Ziyue Wang, Wentao Ma, Yiming Cui, Dayong Wu, Shijin Wang, Ting Liu, Tianxiang Huo, Zhen Hu, Heng Wang, Zhiyuan Liu | CCL 2019 | [GitHub](https://github.com/china-ai-law-challenge/CAIL2019) |
