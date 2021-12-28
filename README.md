@@ -47,7 +47,7 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Name | Description | Paper |
 | :------ | :------: | :------: |
-| IFlyEA | A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation | [Gong et al., 2021](A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation) |
+| IFlyEA | A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation | [Gong et al., 2021](https://aclanthology.org/2021.acl-demo.29/) |
 | [iFLYChecker](http://check.hfl-rc.com) | A Chinese Grammar Checking System | - |
 | [IFlyLegal](https://github.com/china-ai-law-challenge/CAIL2019/tree/master/阅读理解#法小飞) | A Chinese Legal System for Consultation & Law Searching | [Wang et al., 2019](https://www.aclweb.org/anthology/D19-3017/) |
 
@@ -67,7 +67,7 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Paper | Authors | Venue | Note |
 | :------ | :------ | :------: | :------: |
-| [IFlyEA: A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation]() | Jiefu Gong, Xiao Hu, Wei Song, Ruiji Fu, Zhichao Sheng, Bo Zhu, Shijin Wang, Ting Liu | ACL 2021 Demo |  |
+| [IFlyEA: A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation](https://aclanthology.org/2021.acl-demo.29/) | Jiefu Gong, Xiao Hu, Wei Song, Ruiji Fu, Zhichao Sheng, Bo Zhu, Shijin Wang, Ting Liu | ACL 2021 Demo |  |
 | [Dynamic Connected Networks for Chinese Spelling Check](https://aclanthology.org/2021.findings-acl.216/) | Baoxin Wang, Wanxiang Che, Dayong Wu, Shijin Wang, Guoping Hu, Ting Liu | Findings of ACL 2021 | |
 | [Various Legal Factors Extraction Based on Machine Reading Comprehension](https://link.springer.com/chapter/10.1007/978-3-030-88189-4_2) | Beichen Wang, Ziyue Wang, Baoxin Wang, Dayong Wu, Zhigang Chen, Shijin Wang, Guoping Hu | CCIR 2021 | |
 | 利用深层语言分析改进中文作文自动评分方法 | 魏思，巩捷甫，宋巍，宋子尧，王士进 | 中文信息学报 | |
