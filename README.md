@@ -16,6 +16,7 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Name | Description |
 | :------ | :------ |
+| [Chinese-MobileBERT](https://github.com/ymcui/Chinese-MobileBERT) | Chinese MobileBERT (base-level, large-level) *(archival purpose only)* |
 | [CINO](https://github.com/ymcui/Chinese-Minority-PLM) | Pre-trained Language Models for Chinese Minority Languages |
 | [MacBERT](https://github.com/ymcui/MacBERT) | Chinese pre-trained MacBERT models (MacBERT-base, MacBERT-large) |
 | [CharBERT](https://github.com/wtma/CharBERT) | English pre-trained CharBERT models |
@@ -40,7 +41,7 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 ## Toolkit
 
 | Name | Description | Paper |
-| :------ | :------: | :------: |
+| :------ | :------- | :------: |
 | [TextPruner](https://github.com/airaria/TextPruner) | Model Pruning for NLP | - |
 | [TextBrewer](https://github.com/airaria/TextBrewer) | Knowledge Distillation for NLP | [Yang et al., 2020](https://arxiv.org/abs/2002.12620) |
 
@@ -48,7 +49,7 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 ## Demo
 
 | Name | Description | Paper |
-| :------ | :------: | :------: |
+| :------ | :------- | :------: |
 | IFlyEA | A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation | [Gong et al., 2021](https://aclanthology.org/2021.acl-demo.29/) |
 | [iFLYChecker](http://check.hfl-rc.com) | A Chinese Grammar Checking System | - |
 | [IFlyLegal](https://github.com/china-ai-law-challenge/CAIL2019/tree/master/阅读理解#法小飞) | A Chinese Legal System for Consultation & Law Searching | [Wang et al., 2019](https://www.aclweb.org/anthology/D19-3017/) |
@@ -57,7 +58,7 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 ## Evaluation Campaign
 
 | Name | Description |
-| :------ | :------: |
+| :------ | :------- |
 | [CTC 2021](https://github.com/destwang/CTC2021) | Chinese Text Correction |
 | [CAIL 2020](http://cail.cipsc.org.cn) | Judiciary Reading Comprehension |
 | [CMRC 2019](http://hfl-rc.github.io/cmrc2019/) | Sentence Cloze Reading Comprehension |
