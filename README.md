@@ -72,17 +72,17 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Year | Paper | Author List | Venue | Note |
 | :-----: | :------ | :------- | :------: | :------: |
-| 2022 | [Visualizing Attention Zones in Machine Reading Comprehension Models]() | Yiming Cui, Wei-Nan Zhang, Ting Liu | STAR Protocols | |
-| 2022 | [Multilingual Multi-Aspect Explainability Analyses on Machine Reading Comprehension Models](https://www.cell.com/iscience/fulltext/S2589-0042%2822%2900446-1) | Yiming Cui, Wei-Nan Zhang, Wanxiang Che, Ting Liu, Zhigang Chen, Shijin Wang | iScience | 
+| 2022 | [Visualizing Attention Zones in Machine Reading Comprehension Models]() | Yiming Cui, Wei-Nan Zhang, Ting Liu | STAR Protocols | [GitHub](https://github.com/ymcui/mrc-model-analysis) |
+| 2022 | [Multilingual Multi-Aspect Explainability Analyses on Machine Reading Comprehension Models](https://www.cell.com/iscience/fulltext/S2589-0042%2822%2900446-1) | Yiming Cui, Wei-Nan Zhang, Wanxiang Che, Ting Liu, Zhigang Chen, Shijin Wang | iScience | [GitHub](https://github.com/ymcui/mrc-model-analysis) |
 | 2021 | [ExpMRC: Explainability Evaluation for Machine Reading Comprehension](https://www.cell.com/heliyon/fulltext/S2405-8440%2822%2900578-3) | Yiming Cui, Ting Liu, Wanxiang Che, Zhigang Chen, Shijin Wang | Heliyon | [GitHub](https://github.com/ymcui/expmrc) |
 | 2022 | [Teaching Machines to Read, Answer and Explain](https://ieeexplore.ieee.org/document/9729502) | Yiming Cui, Ting Liu, Wanxiang Che, Zhigang Chen, Shijin Wang | IEEE/ACM TASLP |  |
 | 2022 | [PERT: Pre-training BERT with Permuted Language Model](https://arxiv.org/abs/2203.06906) | Yiming Cui, Ziqing Yang, Ting Liu | | [GitHub](https://github.com/ymcui/PERT) |
 | 2022 | A Static and Dynamic Attention Framework for Multi Turn Dialogue Generation | Wei-Nan Zhang, Yiming Cui, Kaiyan Zhang, Yifa Wang, Qingfu Zhu, Lingzhi Li, Ting Liu | ACM TOIS |  |
 | 2022 | [Cross-Lingual Text Classification with Multilingual Distillation and Zero-Shot-Aware Training](https://arxiv.org/abs/2202.13654) | Ziqing Yang, Yiming Cui, Zhigang Chen, Shijin Wang | | |
-| 2022 | [CINO: A Chinese Minority Pre-trained Language Model](https://arxiv.org/abs/2202.13558) | | [GitHub](https://github.com/ymcui/Chinese-Minority-PLM) |
-| 2022 | [HFL at SemEval-2022 Task 8: A Linguistics-inspired Regression Model with Data Augmentation for Multilingual News Similarity](https://arxiv.org/abs/2204.04844) | SemEval 2022 | [GitHub](https://github.com/GeekDream-x/SemEval2022-Task8-TonyX) |
+| 2022 | [CINO: A Chinese Minority Pre-trained Language Model](https://arxiv.org/abs/2202.13558) | Ziqing Yang, Zihang Xu, Yiming Cui, Baoxin Wang, Min Lin, Dayong Wu, Zhigang Chen | [GitHub](https://github.com/ymcui/Chinese-Minority-PLM) |
+| 2022 | [HFL at SemEval-2022 Task 8: A Linguistics-inspired Regression Model with Data Augmentation for Multilingual News Similarity](https://arxiv.org/abs/2204.04844) | Zihang Xu, Ziqing Yang, Yiming Cui, Zhigang Chen | SemEval 2022 | [GitHub](https://github.com/GeekDream-x/SemEval2022-Task8-TonyX) |
 | 2022 | [HIT at SemEval-2022 Task 2: Pre-trained Language Model for Idioms Detection](https://arxiv.org/abs/2204.06145) | Zheng Chu, Ziqing Yang, Yiming Cui, Zhigang Chen, Ming Liu | SemEval 2022 | |
-| 2022 | [TextPruner: A Model Pruning Toolkit for Pre-trained Language Models](https://aclanthology.org/2022.acl-demo.4) | Ziqing Yang, Yiming Cui, Zhigang Chen | ACL 2022 Demo |  |
+| 2022 | [TextPruner: A Model Pruning Toolkit for Pre-trained Language Models](https://aclanthology.org/2022.acl-demo.4) | Ziqing Yang, Yiming Cui, Zhigang Chen | ACL 2022 Demo | [GitHub](https://github.com/airaria/TextPruner)
 | 2022 | [Interactive Gated Decoder for Machine Reading Comprehension](https://dl.acm.org/doi/10.1145/3501399) | Yiming Cui, Wanxiang Che, Ziqing Yang, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu | ACM TALLIP |  |
 | 2021 | [IFlyEA: A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation](https://aclanthology.org/2021.acl-demo.29/) | Jiefu Gong, Xiao Hu, Wei Song, Ruiji Fu, Zhichao Sheng, Bo Zhu, Shijin Wang, Ting Liu | ACL 2021 Demo |  |
 | 2021 | [Dynamic Connected Networks for Chinese Spelling Check](https://aclanthology.org/2021.findings-acl.216/) | Baoxin Wang, Wanxiang Che, Dayong Wu, Shijin Wang, Guoping Hu, Ting Liu | Findings of ACL 2021 | |
