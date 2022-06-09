@@ -43,7 +43,7 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Name | Description | Paper |
 | :------ | :------- | :------: |
-| [TextPruner](https://github.com/airaria/TextPruner) | Model Pruning for NLP | Yang et al., 2022 (TBA) |
+| [TextPruner](https://github.com/airaria/TextPruner) | Model Pruning for NLP | [Yang et al., 2022](https://aclanthology.org/2022.acl-demo.4) |
 | [TextBrewer](https://github.com/airaria/TextBrewer) | Knowledge Distillation for NLP | [Yang et al., 2020](https://arxiv.org/abs/2002.12620) |
 
 
@@ -60,6 +60,7 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Name | Description | Live Leaderboard |
 | :------ | :------: | :------: |
+| [CMRC 2022](http://cmrc2022.hfl-rc.com) | Explainable Reading Comprehension | ✅ |
 | [CTC 2021](https://github.com/destwang/CTC2021) | Chinese Text Correction | ✅ |
 | [CAIL 2020](http://cail.cipsc.org.cn) | Judiciary Reading Comprehension | ❌ |
 | [CMRC 2019](http://hfl-rc.github.io/cmrc2019/) | Sentence Cloze Reading Comprehension | ✅ |
@@ -71,9 +72,17 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Year | Paper | Author List | Venue | Note |
 | :-----: | :------ | :------- | :------: | :------: |
+| 2022 | [Visualizing Attention Zones in Machine Reading Comprehension Models]() | Yiming Cui, Wei-Nan Zhang, Ting Liu | STAR Protocols | |
+| 2022 | [Multilingual Multi-Aspect Explainability Analyses on Machine Reading Comprehension Models](https://www.cell.com/iscience/fulltext/S2589-0042%2822%2900446-1) | Yiming Cui, Wei-Nan Zhang, Wanxiang Che, Ting Liu, Zhigang Chen, Shijin Wang | iScience | 
+| 2021 | [ExpMRC: Explainability Evaluation for Machine Reading Comprehension](https://www.cell.com/heliyon/fulltext/S2405-8440%2822%2900578-3) | Yiming Cui, Ting Liu, Wanxiang Che, Zhigang Chen, Shijin Wang | Heliyon | [GitHub](https://github.com/ymcui/expmrc) |
 | 2022 | [Teaching Machines to Read, Answer and Explain](https://ieeexplore.ieee.org/document/9729502) | Yiming Cui, Ting Liu, Wanxiang Che, Zhigang Chen, Shijin Wang | IEEE/ACM TASLP |  |
+| 2022 | [PERT: Pre-training BERT with Permuted Language Model](https://arxiv.org/abs/2203.06906) | Yiming Cui, Ziqing Yang, Ting Liu | | [GitHub](https://github.com/ymcui/PERT) |
 | 2022 | A Static and Dynamic Attention Framework for Multi Turn Dialogue Generation | Wei-Nan Zhang, Yiming Cui, Kaiyan Zhang, Yifa Wang, Qingfu Zhu, Lingzhi Li, Ting Liu | ACM TOIS |  |
-| 2022 | TextPruner: A Model Pruning Toolkit for Pre-trained Language Models | Ziqing Yang, Yiming Cui, Zhigang Chen | ACL 2022 Demo |  |
+| 2022 | [Cross-Lingual Text Classification with Multilingual Distillation and Zero-Shot-Aware Training](https://arxiv.org/abs/2202.13654) | Ziqing Yang, Yiming Cui, Zhigang Chen, Shijin Wang | | |
+| 2022 | [CINO: A Chinese Minority Pre-trained Language Model](https://arxiv.org/abs/2202.13558) | | [GitHub](https://github.com/ymcui/Chinese-Minority-PLM) |
+| 2022 | [HFL at SemEval-2022 Task 8: A Linguistics-inspired Regression Model with Data Augmentation for Multilingual News Similarity](https://arxiv.org/abs/2204.04844) | SemEval 2022 | [GitHub](https://github.com/GeekDream-x/SemEval2022-Task8-TonyX) |
+| 2022 | [HIT at SemEval-2022 Task 2: Pre-trained Language Model for Idioms Detection](https://arxiv.org/abs/2204.06145) | Zheng Chu, Ziqing Yang, Yiming Cui, Zhigang Chen, Ming Liu | SemEval 2022 | |
+| 2022 | [TextPruner: A Model Pruning Toolkit for Pre-trained Language Models](https://aclanthology.org/2022.acl-demo.4) | Ziqing Yang, Yiming Cui, Zhigang Chen | ACL 2022 Demo |  |
 | 2022 | [Interactive Gated Decoder for Machine Reading Comprehension](https://dl.acm.org/doi/10.1145/3501399) | Yiming Cui, Wanxiang Che, Ziqing Yang, Ting Liu, Bing Qin, Shijin Wang, Guoping Hu | ACM TALLIP |  |
 | 2021 | [IFlyEA: A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation](https://aclanthology.org/2021.acl-demo.29/) | Jiefu Gong, Xiao Hu, Wei Song, Ruiji Fu, Zhichao Sheng, Bo Zhu, Shijin Wang, Ting Liu | ACL 2021 Demo |  |
 | 2021 | [Dynamic Connected Networks for Chinese Spelling Check](https://aclanthology.org/2021.findings-acl.216/) | Baoxin Wang, Wanxiang Che, Dayong Wu, Shijin Wang, Guoping Hu, Ting Liu | Findings of ACL 2021 | |
@@ -82,7 +91,6 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 | 2021 | [Bilingual Alignment Pre-training for Zero-shot Cross-lingual Transfer](https://aclanthology.org/2021.mrqa-1.10/) | Ziqing Yang, Wentao Ma, Yiming Cui, Jiani Ye, Wanxiang Che, Shijin Wang | MRQA 2021 |  |
 | 2021 | [Adversarial Training for Machine Reading Comprehension with Virtual Embeddings](https://aclanthology.org/2021.starsem-1.30/) | Ziqing Yang, Yiming Cui, Chenglei Si, Wanxiang Che, Ting Liu, Shijin Wang, Guoping Hu | *SEM 2021 |  |
 | 2021 | [Pre-Training with Whole Word Masking for Chinese BERT](http://ieeexplore.ieee.org/document/9599397) | Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Ziqing Yang | IEEE/ACM TASLP | [GitHub1](https://github.com/ymcui/Chinese-BERT-wwm/), [GitHub2](https://github.com/ymcui/Chinese-PreTrained-XLNet) |
-| 2021 | [ExpMRC: Explainability Evaluation for Machine Reading Comprehension](https://arxiv.org/abs/2105.04126) | Yiming Cui, Ting Liu, Wanxiang Che, Zhigang Chen, Shijin Wang |  | [GitHub](https://github.com/ymcui/expmrc) |
 | 2021 | [Benchmarking Robustness of Machine Reading Comprehension Models](https://arxiv.org/abs/2004.14004) | Chenglei Si, Ziqing Yang, Yiming Cui, Wentao Ma, Ting Liu, Shijin Wang | Findings of ACL 2021 | [GitHub](https://github.com/NoviScl/AdvRACE) |
 | 2020 | [A Sentence Cloze Dataset for Chinese Machine Reading Comprehension](https://arxiv.org/abs/2004.03116) | Yiming Cui, Ting Liu, Ziqing Yang, Zhipeng Chen, Wentao Ma, Wanxiang Che, Shijin Wang, Guoping Hu | COLING 2020 | [GitHub](http://hfl-rc.github.io/cmrc2019/) |
 | 2020 | [CharBERT: Character-aware Pre-trained Language Model](https://arxiv.org/abs/2011.01513) | Wentao Ma, Yiming Cui, Chenglei Si, Ting Liu, Shijin Wang, Guoping Hu | COLING 2020 | [GitHub](https://github.com/wtma/CharBERT) |
