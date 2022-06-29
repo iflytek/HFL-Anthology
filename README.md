@@ -1,4 +1,10 @@
-# HFL Anthology
+<p align="center">
+    <br>
+    <img src="./banner.png" width="500"/>
+    <br>
+</p>
+
+
 Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL).
 
 <!-- TOC -->
@@ -72,7 +78,7 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Year | Paper | Author List | Venue | Note |
 | :-----: | :------ | :------- | :------: | :------: |
-| 2022 | [Visualizing Attention Zones in Machine Reading Comprehension Models]() | Yiming Cui, Wei-Nan Zhang, Ting Liu | STAR Protocols | [GitHub](https://github.com/ymcui/mrc-model-analysis) |
+| 2022 | [Visualizing Attention Zones in Machine Reading Comprehension Models](https://star-protocols.cell.com/protocols/1736) | Yiming Cui, Wei-Nan Zhang, Ting Liu | STAR Protocols | [GitHub](https://github.com/ymcui/mrc-model-analysis) |
 | 2022 | [Multilingual Multi-Aspect Explainability Analyses on Machine Reading Comprehension Models](https://www.cell.com/iscience/fulltext/S2589-0042%2822%2900446-1) | Yiming Cui, Wei-Nan Zhang, Wanxiang Che, Ting Liu, Zhigang Chen, Shijin Wang | iScience | [GitHub](https://github.com/ymcui/mrc-model-analysis) |
 | 2021 | [ExpMRC: Explainability Evaluation for Machine Reading Comprehension](https://www.cell.com/heliyon/fulltext/S2405-8440%2822%2900578-3) | Yiming Cui, Ting Liu, Wanxiang Che, Zhigang Chen, Shijin Wang | Heliyon | [GitHub](https://github.com/ymcui/expmrc) |
 | 2022 | [Teaching Machines to Read, Answer and Explain](https://ieeexplore.ieee.org/document/9729502) | Yiming Cui, Ting Liu, Wanxiang Che, Zhigang Chen, Shijin Wang | IEEE/ACM TASLP |  |
