@@ -1,26 +1,27 @@
+[**中文**](https://github.com/ymcui/HFL-Anthology/blob/main/README_ZH.md) | [**English**](https://github.com/ymcui/HFL-Anthology)
+
 <p align="center">
     <br>
     <img src="./banner.png" width="500"/>
     <br>
 </p>
 
-
-Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL).
+哈工大讯飞联合实验室（HFL）推出的资源合集。
 
 <!-- TOC -->
 
-- [Pre-trained Language Models](#Pre-trained-Language-Models)
-- [Dataset](#Dataset)
-- [Toolkit](#Toolkit)
-- [Demo](#System-Demonstration)
-- [Evaluation Campaign](#Evaluation-Campaign)
-- [Paper](#Paper)
+- [预训练模型](#预训练模型)
+- [数据集](#数据集)
+- [工具包](#工具包)
+- [Demo](#Demo)
+- [评测活动](#评测活动)
+- [论文](#论文)
 
 <!-- /TOC -->
 
-## Pre-trained Language Model
+## 预训练模型
 
-| Name | Description |
+| 名称 | 描述 |
 | :------ | :------ |
 | [PERT](https://github.com/ymcui/PERT) | Chinese and English PERT models (base-level, large-level) |
 | [Chinese-MobileBERT](https://github.com/ymcui/Chinese-MobileBERT) | Chinese MobileBERT (base-level, large-level) *(archival purpose only)* |
@@ -32,9 +33,9 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 | [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) | Chinese BERT with Whole Word Masking (wwm), including BERT-wwm, BERT-wwm-ext, RoBERTa-wwm-ext, RoBERTa-wwm-ext-large, RBT3, RBTL3 |
 
 
-## Dataset
+## 数据集
 
-| Name | Type | Paper |
+| 名称 | 类型 | 论文 |
 | :------ | :------: | :------: |
 | [ExpMRC](https://github.com/ymcui/expmrc) | Reading Comprehension | [Cui et al., 2021](https://arxiv.org/abs/2105.04126) |
 | [AdvRACE](https://github.com/NoviScl/AdvRACE) | Reading Comprehension | [Si et al., 2020](https://arxiv.org/abs/2004.14004) |
@@ -45,26 +46,26 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 | [PD&CFT](https://github.com/ymcui/Chinese-Cloze-RC) | Reading Comprehension | [Cui et al., 2016](https://www.aclweb.org/anthology/C16-1167/) |
 
 
-## Toolkit
+## 工具包
 
-| Name | Description | Paper |
+| 名称 | 描述 | 论文 |
 | :------ | :------- | :------: |
 | [TextPruner](https://github.com/airaria/TextPruner) | Model Pruning for NLP | [Yang et al., 2022](https://aclanthology.org/2022.acl-demo.4) |
 | [TextBrewer](https://github.com/airaria/TextBrewer) | Knowledge Distillation for NLP | [Yang et al., 2020](https://aclanthology.org/2020.acl-demos.2/) |
 
 
-## System Demonstration
+## Demo
 
-| Name | Description | Paper |
+| 名称 | 描述 | 论文 |
 | :------ | :------- | :------: |
 | IFlyEA | A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation | [Gong et al., 2021](https://aclanthology.org/2021.acl-demo.29/) |
 | [iFLYChecker](http://check.hfl-rc.com) | A Chinese Grammar Checking System | - |
 | [IFlyLegal](https://github.com/china-ai-law-challenge/CAIL2019/tree/master/阅读理解#法小飞) | A Chinese Legal System for Consultation & Law Searching | [Wang et al., 2019](https://www.aclweb.org/anthology/D19-3017/) |
 
 
-## Evaluation Campaign
+## 评测活动
 
-| Name | Description | Live Leaderboard |
+| 名称 | 描述 | 在线排行榜 |
 | :------ | :------: | :------: |
 | [CMRC 2022](http://cmrc2022.hfl-rc.com) | Explainable Reading Comprehension | ✅ |
 | [CTC 2021](https://github.com/destwang/CTC2021) | Chinese Text Correction | ✅ |
@@ -74,9 +75,9 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 | [CMRC 2018](http://hfl-rc.github.io/cmrc2018/) | Span-Extraction Reading Comprehension | ✅ |
 | [CMRC 2017](http://hfl-rc.github.io/cmrc2017/) | Cloze-style Reading Comprehension | ❌ |
 
-## Paper
+## 论文
 
-| Year | Paper | Author List | Published in | Note |
+| 年份 | 论文 | 作者 | 刊物 | 备注 |
 | :-----: | :------ | :------- | :------: | :------: |
 | 2022 | [Visualizing Attention Zones in Machine Reading Comprehension Models](https://star-protocols.cell.com/protocols/1736) | Yiming Cui, Wei-Nan Zhang, Ting Liu | STAR Protocols | [GitHub](https://github.com/ymcui/mrc-model-analysis) |
 | 2022 | [Multilingual Multi-Aspect Explainability Analyses on Machine Reading Comprehension Models](https://www.cell.com/iscience/fulltext/S2589-0042%2822%2900446-1) | Yiming Cui, Wei-Nan Zhang, Wanxiang Che, Ting Liu, Zhigang Chen, Shijin Wang | iScience | [GitHub](https://github.com/ymcui/mrc-model-analysis) |
@@ -123,8 +124,9 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 | 2016 | [Consensus Attention-based Neural Networks for Chinese Reading Comprehension](https://www.aclweb.org/anthology/C16-1167/) | Yiming Cui, Ting Liu, Zhipeng Chen, Shijin Wang, Guoping Hu | COLING 2016 | [GitHub](https://github.com/ymcui/Chinese-Cloze-RC) |
 | 2016 | [LSTM Neural Reordering Feature for Statistical Machine Translation](https://www.aclweb.org/anthology/N16-1112/) | Yiming Cui, Shijin Wang, Jianfeng Li | NAACL 2016 | - |
 
-## Follow Us
-Follow our official WeChat account to keep updated with our latest technologies!
+## 关注我们
+
+欢迎关注哈工大讯飞联合实验室微信公众号，获取最新技术资讯！
 
 ![](./hfl_qrcode.jpg)
 
