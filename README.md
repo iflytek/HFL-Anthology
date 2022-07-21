@@ -1,3 +1,5 @@
+[**中文**](https://github.com/ymcui/HFL-Anthology/blob/main/README_ZH.md) | [**English**](https://github.com/ymcui/HFL-Anthology)
+
 <p align="center">
     <br>
     <img src="./banner.png" width="500"/>
