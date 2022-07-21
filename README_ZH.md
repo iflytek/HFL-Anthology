@@ -1,4 +1,4 @@
-[**中文**](https://github.com/ymcui/HFL-Anthology/blob/main/README_ZH.md) | [**English**](https://github.com/ymcui/HFL-Anthology)
+[**中文**](https://github.com/ymcui/HFL-Anthology/blob/master/README_ZH.md) | [**English**](https://github.com/ymcui/HFL-Anthology)
 
 <p align="center">
     <br>
