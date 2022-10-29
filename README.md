@@ -24,6 +24,7 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Name | Description |
 | :------ | :------ |
+| [LERT](https://github.com/ymcui/LERT) | Chinese LERT models (small-level, base-level, large-level) |
 | [PERT](https://github.com/ymcui/PERT) | Chinese and English PERT models (base-level, large-level) |
 | [Chinese-MobileBERT](https://github.com/ymcui/Chinese-MobileBERT) | Chinese MobileBERT (base-level, large-level) *(archival purpose only)* |
 | [CINO](https://github.com/ymcui/Chinese-Minority-PLM) | Pre-trained Language Models for Chinese Minority Languages |
