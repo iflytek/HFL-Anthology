@@ -40,6 +40,8 @@ Collections of resources from Joint Laboratory of HIT and iFLYTEK Research (HFL)
 
 | Name | Type | Paper |
 | :------ | :------: | :------: |
+| [CCTC](https://github.com/destwang/CTCResources) | Text Correction | [Wang et al., 2022](https://aclanthology.org/2022.coling-1.294.pdf) |
+| [CTC 2021](https://github.com/destwang/CTC2021) | Text Correction |[Wang et al., 2022](https://arxiv.org/pdf/2208.05681.pdf)|
 | [ExpMRC](https://github.com/ymcui/expmrc) | Reading Comprehension | [Cui et al., 2021](https://arxiv.org/abs/2105.04126) |
 | [AdvRACE](https://github.com/NoviScl/AdvRACE) | Reading Comprehension | [Si et al., 2020](https://arxiv.org/abs/2004.14004) |
 | [CMRC 2019](https://github.com/ymcui/cmrc2019) | Reading Comprehension | [Cui et al., 2020](https://arxiv.org/abs/2004.03116) |
