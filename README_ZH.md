@@ -23,6 +23,7 @@
 
 | 名称 | 描述 |
 | :------ | :------ |
+| [VLE](https://github.com/iflytek/VLE) | Multimodal Vision-Language Encoder |
 | [MiniRBT](https://github.com/iflytek/MiniRBT) | Chinese MiniRBT models (a series of small pre-trained models) |
 | [LERT](https://github.com/ymcui/LERT) | Chinese LERT models (small-level, base-level, large-level) |
 | [PERT](https://github.com/ymcui/PERT) | Chinese and English PERT models (base-level, large-level) |
